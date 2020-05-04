@@ -1,5 +1,8 @@
 # form_validation_vuelidate
 
+You can visit our site to step by step guidline about how to add form validation using Vuelidate library in Vue Js application or project. 
+https://www.solutionspirit.com/vue-js-form-validation-using-vuelidate-library/
+
 ## Project setup
 ```
 npm install

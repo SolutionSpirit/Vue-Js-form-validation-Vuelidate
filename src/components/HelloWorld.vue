@@ -1,7 +1,16 @@
 <template>
   <div class="hello container p-5">
     <div class="form-card">
-      <form @submit.prevent="submitForm">
+      <h2 class="fs-title">
+        <a
+          target="_blank"
+          href="https://www.solutionspirit.com/vue-js-form-validation-using-vuelidate-library/"
+        >
+          Vue Js Form validation using Vuelidate article
+        </a>
+      </h2>
+
+      <form @submit.prevent="submitForm" class="mt-5">
         <div>
           <div class="row mb-4">
             <div class="col-4">
